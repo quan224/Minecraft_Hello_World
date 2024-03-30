@@ -9,8 +9,8 @@ Minecraft简易光影
 
 ![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/1.png)
 ![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/2.png)
+![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/5.png)
 ![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/3.png)
 ![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/4.png)
-![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/5.png)
 ![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/6.png)
 ![image](https://github.com/quan224/Minecraft_Hello_World/blob/main/image/7.png)
